@@ -20,9 +20,12 @@ https://goodvibesagency.tokyo/reports/202609-snidel-ig-pr-report/
 
 ### 2. アップロードする
 
-1. このページ上部の緑の **Add file** ボタン → **Upload files** をクリック
-2. ファイルを画面にドラッグ&ドロップ
-3. 下の緑の **Commit changes** ボタンをクリック
+1. **アップロードページ**を開く → https://github.com/GOOD-VIBES-AGENCY/reports/upload/main
+   （このURLをブックマークしておくと次回から一発です）
+2. 「Drag files here to add them to your repository」と書かれた枠に、ファイルをドラッグ&ドロップ
+3. 下までスクロールして、緑の **Commit changes** ボタンをクリック
+
+リポジトリのトップから行く場合は、白い **Add file** ボタン → **Upload files** で同じページに着きます。
 
 zipのままでもHTML単体でもOKです。フォルダを作る必要はありません。
 
